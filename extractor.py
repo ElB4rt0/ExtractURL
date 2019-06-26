@@ -32,9 +32,9 @@ def banner():
     """
 def findinglinks (soup):
     for link in soup.find_all('a'):
-    	    obteniendo = link.get('href', '')
-            if 'http' in obteniendo:
-                print bcolors.FAIL + "[URL] " + bcolors.OKWHITE + obteniendo
+    	    obtain = link.get('href', '')
+            if 'http' in obtain:
+                print bcolors.FAIL + "[URL] " + bcolors.OKWHITE + obtain
 list_1 = []
 newlist = []
 def findingdirectories(soup):
