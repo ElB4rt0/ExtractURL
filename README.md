@@ -1,5 +1,12 @@
-# Extractor
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
 
+<body>
+	<div id="container">
+		<h1>Extractor</h1>
+      <pre>
   |\/\/\/\/\/|
   |          |
   |          |       .------------------------.
@@ -13,6 +20,12 @@
   |      _)        Developer :elbartopwn@protonmail.com
   |     |          GitHub: https://github.com/ElB4rt0 https://github.com/dplastico
  /`-----'\ 
+    </pre>
+
+</div>
+</body>
+</html>
+
 
 extractor is a tool for information gathering of pentesting.
 this tool search url and directory contained in the url with the argument -u 
