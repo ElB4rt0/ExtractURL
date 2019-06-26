@@ -18,18 +18,31 @@
  \_   ,     -'
   |  '\_______)
   |      _)        Developer :elbartopwn@protonmail.com
-  |     |          GitHub: https://github.com/ElB4rt0 https://github.com/dplastico
+  |     |          GitHub: https://github.com/ElB4rt0 | Collaborator: https://github.com/dplastico
  /`-----'\ 
     </pre>
 <p><b>
-	extractor is a tool for information gathering of pentesting.
-this tool search url and directory contained in the url with the argument -u 
-you need the url without the special character " / " (this is going to be fixed in next versions)
-extractor helps to find relevant information of the site searching the tag html - href
+
+	
+Extractor is an information gathering tool for pentesting.
+It extract all URL's and directories for a given URL.
+
+INSTALL:
+
+$pip install -r requirements.txt
+$sudo cp extractor.py /usr/local/bin/extractor
+$chmod 755 /usr/local/bin/extractor
+
+USAGE:
+
+just Execute extractor and -u for the url (without and "/" at the end. To be fixed in next versions)
+Example:
+
+$extractor -u http://gitgub.com/ELB4rt0
+
 
 </b></p>
 </div>
 </body>
 </html>
-
 
