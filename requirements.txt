@@ -1,0 +1,5 @@
+requests==2.21.0
+beautifulsoup4==4.7.1
+regex==2019.2.7
+argcomplete==1.9.5
+
