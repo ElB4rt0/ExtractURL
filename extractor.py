@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- 
 __version__ = "1.0"
 __author__  = "elbarto"
-import sys
 import requests
 from bs4 import BeautifulSoup
 import argparse
