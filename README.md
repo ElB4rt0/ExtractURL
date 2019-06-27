@@ -4,8 +4,8 @@
 </head>
 
 <body>
-	<div id="container">
-		<h1>Extractor</h1>
+        <div id="container">
+                <h1>Extractor</h1>
       <pre>
   |\/\/\/\/\/|
   |          |
@@ -19,11 +19,11 @@
   |  '\_______)
   |      _)        Developer :elbartopwn@protonmail.com
   |     |          GitHub: https://github.com/ElB4rt0 | Collaborator: https://github.com/dplastico
- /`-----'\ 
+ /`-----'\
     </pre>
 <p><b>
 
-	
+
 Extractor is an information gathering tool for pentesting.
 It extract all URL's and directories for a given URL.
 
@@ -35,14 +35,18 @@ $chmod 755 /usr/local/bin/extractor
 
 USAGE:
 
-just Execute extractor and -u for the url (without and "/" at the end. To be fixed in next versions)
+just Execute extractor and -u <URL>
+
+For other options:
+
+$extractor -h
+
 Example:
 
 $extractor -u http://gitgub.com/ELB4rt0
 
 
+
 </b></p>
-</div>
-</body>
-</html>
+
 
