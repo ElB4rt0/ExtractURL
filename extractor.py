@@ -31,7 +31,7 @@ def banner():
      \_   ,     -'
       |  '\_______)
       |      _)        Developer :elbartopwn@protonmail.com
-      |     |          GitHub: https://github.com/ElB4rt0 | collaborator : https://github.com/dplastico
+      |     |          GitHub: https://github.com/ElB4rt0 | collaborator: https://github.com/dplastico
      /`-----'\ 
         """
 
