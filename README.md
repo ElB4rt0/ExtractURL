@@ -43,7 +43,7 @@ $extractor -h
 
 Example:
 
-$extractor -u http://gitgub.com/ELB4rt0
+$extractor -u http://github.com/ELB4rt0
 
 
 
